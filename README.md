@@ -1,6 +1,3 @@
-Here's a sample `README.md` file for the GitHub Prisma repository that includes an explanation of the project, setup instructions, and usage examples.
-
----
 
 # Prisma User Authentication API
 
@@ -34,7 +31,7 @@ This is a simple API built with **Node.js**, **Express**, and **Prisma** that pr
 
    ```bash
    git clone https://github.com/BhautikVekariya21/prisma.git
-   cd prisma-auth-api
+   cd prisma
    ```
 
 2. **Install dependencies:**
