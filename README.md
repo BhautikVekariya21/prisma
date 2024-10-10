@@ -1,4 +1,3 @@
-
 # Prisma User Authentication API
 
 This is a simple API built with **Node.js**, **Express**, and **Prisma** that provides user authentication functionality, including user signup, login, and JWT token-based authentication. It uses **MongoDB** as the database with Prisma ORM.
