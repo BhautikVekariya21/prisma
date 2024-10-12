@@ -194,4 +194,15 @@ Prisma client: PrismaClient {}
 User created successfully: { id: '...', name: 'John', email: 'john@example.com', password: '...' }
 ```
 
+## Credits
+
+All video tutorials and guidance for this backend project are based on the excellent **Chai Aur Code** YouTube channel.
+
+You can check out the backend playlist here:
+
+[Chai Aur Code - Prisma Playlist](https://www.youtube.com/@chaiaurcode)
+
+Special thanks to the creator of the channel for providing valuable content to learn backend development!
+
+
 This `README.md` provides an overview of the project, setup steps, and usage details. It should help other developers understand the repository and use it effectively.
